@@ -1,0 +1,60 @@
+/*Darle color!*/
+body{
+    
+    background-color:#d1eaee;
+    color:black;
+   
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+p{
+    color:#4e2d28;
+    font-family: 'Indie Flower', cursive;
+
+}
+h1{
+    font: 1em sans-serif;
+    color:blue;
+    
+}
+.dos {
+    font: 1em sans-serif;
+    color:brown
+}
+
+.titulo{
+   text-align: center; 
+   font-weight: 20000;
+   font-size:80px;
+    font-family: 'Kablammo', cursive;
+}
+.contenedor {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width:300 px;
+}
+.unoimg{
+    width:246px;
+    display: flex;
+    margin-left: 2%;
+    border-radius: 20px;
+
+}
+.dosimg{
+    width:246px;
+    display: flex;
+    margin-left: 1%;
+    border-radius: 20px;
+
+}
+a{
+    color: #eb0258;
+    
+}
+.contenedor2{
+    margin-top: 0%;
+    display: flex;
+    align-items:center;
+    flex-direction: column-reverse;  
+}
